@@ -1,2 +1,3 @@
 # Count_people
- count people in images using Python and opencv
+Using Open CV module in Python 3.0 to detect people's existance 
+This is one of the famous modules in Python and used in Computer Vision.
